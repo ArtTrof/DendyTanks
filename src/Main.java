@@ -6,6 +6,7 @@ public class Main {
 
         JFrame frame  = new JFrame("Dendy Tanks");
         frame.setMinimumSize(new Dimension(576,576));
+        frame.setLocation(0,0);
         frame.setVisible(true);
 
     }
